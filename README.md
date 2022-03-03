@@ -1,6 +1,9 @@
 # Lesson 3: Calculus:
 This is the third lesson of the Advanced Programming course with the following objectives:
-* i) Understand about another source code which implements some math functions namely sin(x), cos(x), sqrt(x)
+* i) Understand about another source code which implements some math functions namely sin(x), cos(x), sqrt(x). \
+  Please check the following articles for your references
+  - sin(x), cos(x) : https://mathworld.wolfram.com/MaclaurinSeries.html
+  - sqrt(x): https://en.wikipedia.org/wiki/Newton%27s_method#Square_root
 * ii) Learn about the automated testing with github Actions.
 
 You are required to implement several functions of Calculus. They could be done via the instructions as follows:
